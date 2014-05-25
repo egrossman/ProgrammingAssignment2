@@ -1,6 +1,7 @@
 ## cacheMatrix.R
 ## Forked from Coursera's R Programming class: rdpeng/ProgrammingAssignment2
 ## Current Author: Elan Grossman github.com/egrossman
+## Solution based on examples in README.md
 
 
 
